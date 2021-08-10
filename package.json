@@ -1,0 +1,20 @@
+{
+  "name": "14-todo_list-v1",
+  "version": "1.0.0",
+  "description": "This is my todo list.",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node app.js"
+  },
+  "author": "Ayush_Verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
